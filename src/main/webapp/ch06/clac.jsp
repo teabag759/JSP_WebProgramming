@@ -19,7 +19,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>calc Result_JSP</title>
 </head>
 <body>
 	<h2>계산 결과-JSP</h2>
